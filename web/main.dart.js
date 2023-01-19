@@ -7619,7 +7619,7 @@ Cz:function Cz(){},
 a0X(){var s=0,r=A.a3(t.xa),q,p,o,n
 var $async$a0X=A.a4(function(a,b){if(a===1)return A.a0(b,r)
 while(true)switch(s){case 0:s=3
-return A.Y(A.aj9(A.rO("http://127.0.0.1:3000/api/lesson")),$async$a0X)
+return A.Y(A.aj9(A.rO("https://cygnet.fly.dev/api/lesson")),$async$a0X)
 case 3:n=b
 if(n.b===200){p=B.ar.Au(0,A.aiX(A.ahi(n.e).c.a.i(0,"charset")).cg(0,n.w),null)
 o=J.aj(p)
